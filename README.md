@@ -1,6 +1,6 @@
 # trab2_seguranca
 
-##Especificações do Traballho 2
+## Especificações do Traballho 2
 
 Orientações gerais:
 Os temas do trabalho estão planejados para cobrir o ciclo identificação → proteção → detecção → análise → resposta → recuperação, além de tecnologias representativas.
@@ -13,6 +13,6 @@ A estrutura do texto a ser entregue deve ser:
 5. Análise crítica: fornecer interpretação dos resultados, limitações e possíveis erros.
 6. Conclusões e recomendações: indicar o que foi demonstrado e como os resultados contribuem para a segurança.
 
-###Tema específico
+### Tema específico
 G6 — Realização de testes de penetração
 Realizar testes de penetração em um ambiente controlado e explicitamente autorizado, utilizando ferramentas disponíveis no Kali Linux. Definir o escopo e os objetivos dos testes, executar procedimentos de verificação e exploração controlada, documentar as vulnerabilidades confirmadas e apresentar evidências, impactos potenciais e recomendações de correção. O foco deve ser avaliar se as vulnerabilidades podem ser exploradas para atingir objetivos específicos de segurança, diferenciando vulnerabilidades confirmadas de hipóteses e resultados inconclusivos.
